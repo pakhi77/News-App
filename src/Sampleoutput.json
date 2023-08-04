@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, CNN",
+            "title": "Zelensky tells G7 leaders he wants war with Russia over by the end of the year - CNN",
+            "description": "Ukrainian President Volodymyr Zelensky told G7 leaders during a virtual meeting Monday that he wants the war in Ukraine to end by the end of 2022, according to a source familiar with his remarks.",
+            "url": "https://www.cnn.com/2022/06/27/politics/joe-biden-g7-summit-day-two-volodymyr-zelensky/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220626114019-01-g7-meeting-germany-0626-super-tease.jpg",
+            "publishedAt": "2022-06-27T10:37:00Z",
+            "content": "Telfs-Buchen, Austria (CNN)Ukrainian President Volodymyr Zelensky told G7 leaders during a virtual meeting Monday that he wants the war in Ukraine to end by the end of 2022, according to a source fam… [+6427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jim Tankersley, Shashank Bengali",
+            "title": "Russia-Ukraine War News: Live Updates - The New York Times",
+            "description": "A possible agreement on oil price caps comes as Russia appeared closer to defaulting on its international debt. President Volodymyr Zelensky spoke virtually at the Group of 7 summit in Germany.",
+            "url": "https://www.nytimes.com/live/2022/06/27/world/russia-ukraine-war-news",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/27/world/27ukraine-briefing-carousel-promo/27ukraine-briefing-carousel-promo-facebookJumbo-v2.jpg",
+            "publishedAt": "2022-06-27T10:36:56Z",
+            "content": "A Ukrainian soldier in Sievierodonetsk last week.Credit...Oleksandr Ratushniak/Reuters\r\nLVIV, Ukraine Days after Ukrainian officials confirmed that their forces had retreated from the devastated indu… [+3304 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett, Julian Duplain",
+            "title": "Russia in first foreign debt default since 1918 amid Ukraine war sanctions - The Washington Post",
+            "description": "Western sanctions punishing Moscow for invading Ukraine have restricted its ability to pay overseas creditors.",
+            "url": "https://www.washingtonpost.com/world/2022/06/27/russia-defaults-foreign-debt-ukraine-war/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP5QJWXSIYI6ZLAWR67XDFGNPA.jpg&w=1440",
+            "publishedAt": "2022-06-27T09:53:00Z",
+            "content": "Russia has defaulted on its foreign currency debt for the first time in more than a century, as tough Western sanctions designed to punish Moscow for invading Ukraine restrict its ability to pay over… [+1043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Ike Morgan | imorgan@al.com",
+            "title": "Abortion-law exceptions, STIs, the word ‘meemaw’: Down in Alabama - AL.com",
+            "description": "Listen to \"Down in Alabama\" wherever you get your podcasts.",
+            "url": "https://www.al.com/news/2022/06/abortion-law-exceptions-stis-the-word-meemaw-down-in-alabama.html",
+            "urlToImage": "https://www.al.com/resizer/L_VtQJLT1D1AuNhGRB14VtCtd3c=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FADJODKSGZH4RPYUWGFYGAOXDI.jpg",
+            "publishedAt": "2022-06-27T09:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ariane de Vogue, CNN Supreme Court Reporter",
+            "title": "The remaining Supreme Court cases this term - CNN",
+            "description": "Although the Supreme Court issued the two most important opinions of the term last week, upending near 50-year-old precedent on abortion and expanding gun rights for the first time in a decade, this blockbuster term is not over.",
+            "url": "https://www.cnn.com/2022/06/27/politics/remaining-cases-supreme-court/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220624103141-scotus-building-062422-super-tease.jpg",
+            "publishedAt": "2022-06-27T09:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN Sport staff",
+            "title": "Mass brawl and eight ejections overshadow Los Angeles Angels win over the Seattle Mariners - CNN",
+            "description": "The Los Angeles Angels' win over the Seattle Mariners in the MLB on Sunday was overshadowed by a mass brawl that broke out between both teams in the second inning.",
+            "url": "https://www.cnn.com/2022/06/27/sport/seattle-mariners-los-angeles-angels-mlb-mass-brawl-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220627091450-mariners-angels-brawl-super-tease.jpg",
+            "publishedAt": "2022-06-27T09:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Apple's entry-level MacBook Pro M2 has slower SSD speeds than its M1 counterpart - The Verge",
+            "description": "Apple’s new M2 MacBook Pro appears to have slower SSD write and read speeds than its predecessor. YouTubers have discovered that the base model only has a single NAND chip, which could be affecting speeds.",
+            "url": "https://www.theverge.com/2022/6/27/23184515/apple-macbook-pro-m2-slow-ssd-speeds",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qgVJvraFYYHrArjU5u_PCrhqCWY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23642679/akrales_220620_5303_0002.jpg",
+            "publishedAt": "2022-06-27T08:37:55Z",
+            "content": "Its worth waiting on the MacBook Air if you care about SSD speeds\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nApples new 13-inch MacBook Pro M2 base model appears to have slower SSD speeds than its… [+1565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "EssilorLuxottica Chairman Leonardo del Vecchio dies at 87, local media reports - CNBC",
+            "description": "Leonardo del Vecchio, the chairman of spectacles maker EssilorLuxottica and one of Italy's wealthiest business figures, has died aged 87, Italian media reported on Monday.",
+            "url": "https://www.cnbc.com/2022/06/27/essilorluxottica-chairman-leonardo-del-vecchio-dies-at-87-local-media-reports.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106559493-1590998390502leonardodelvecchio.jpg?v=1590998520&w=1920&h=1080",
+            "publishedAt": "2022-06-27T08:15:32Z",
+            "content": "Leonardo Del Vecchio, the chairman of spectacles maker EssilorLuxottica and one of Italy's wealthiest business figures, has died aged 87, his company said on Monday.\r\n\"EssilorLuxottica sadly announce… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Youngest South Africa tavern victim was 13 - minister - BBC",
+            "description": "Most of the 21 who died in the sudden and unexplained incident were teenagers, the police minister says.",
+            "url": "https://www.bbc.com/news/world-africa-61941170",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AE4E/production/_125622644_0eca5800-4b02-40f0-8db7-2e628060df85.jpg",
+            "publishedAt": "2022-06-27T08:10:52Z",
+            "content": "The youngest victim among the at least 21 people who died at a drinking place at the weekend was 13, police minister Bheki Cele has said.\r\nThe cause of the deaths was not immediately clear and the au… [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Johnny Depp's Attorney Camille Vasquez Fielding Offers From Law Firms, Hollywood - TMZ",
+            "description": "Johnny Depp's attorney Camille Vasquez is fielding offers from Hollywood and law firms.",
+            "url": "https://www.tmz.com/2022/06/27/johnny-depp-attorney-camille-vasquez-fielding-offers-law-firms-hollywood/",
+            "urlToImage": "https://imagez.tmz.com/image/96/16by9/2022/06/24/962cdbaa48fa4a24b49ff93e4b1a63d3_xl.jpg",
+            "publishedAt": "2022-06-27T08:00:00Z",
+            "content": "Johnny Depp's attorney Camille Vasquez is plotting her next move after winning his case against Amber Heard... and she's in high demand in both the legal world and Hollywood.\r\nSources with direct kno… [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Matt Clinch",
+            "title": "U.S. Treasury yields start the week higher as traders assess rate hikes, recession risk - CNBC",
+            "description": "U.S. Treasury yields were higher to start the week as market players assessed the prospect of central banks implementing more rate hikes to curb inflation.",
+            "url": "https://www.cnbc.com/2022/06/27/us-treasury-yields-traders-assess-rate-hikes-recession-risk.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107080169-1656051690841-gettyimages-1404699698-wm3_0330_eb7a35f9-170e-412f-8447-a0bf27a90c50.jpeg?v=1656051894&w=1920&h=1080",
+            "publishedAt": "2022-06-27T07:26:47Z",
+            "content": "U.S. Treasury yields were higher to start the week as market players assessed the prospect of central banks implementing more interest rate hikes to curb soaring inflation.\r\nThe yield on the benchmar… [+884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "William Suberg",
+            "title": "Google users think BTC is dead — 5 things to know in Bitcoin this week - Cointelegraph",
+            "description": "Bitcoin prepares a bearish monthly close as BTC price action stays below a key moving average this week.",
+            "url": "https://cointelegraph.com/news/google-users-think-btc-is-dead-5-things-to-know-in-bitcoin-this-week",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvMmEzYjdjOWMtYzAwNC00MDkzLWIyMTYtMzg1OGJlNGYxYTNkLmpwZw==.jpg",
+            "publishedAt": "2022-06-27T06:28:14Z",
+            "content": "Bitcoin (BTC) starts a new week above $20,000 but heading for a new bearish record as a key support level remains out of reach.\r\nAfter a calm weekend punctuated by a brief spike to near $22,000, BTC/… [+10108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Dustin Long",
+            "title": "Late caution changes fortunes for many drivers - NASCAR on NBC Sports",
+            "description": "A late caution led to differing strategies at Nashville Superspeedway. Those who pitted saw their chances for a win go away.",
+            "url": "https://nascar.nbcsports.com/2022/06/27/late-caution-changes-fortunes-for-many-drivers-chase-elliott-kurt-busch-kyle-busch-martin-truex-denny-hamlin-ryan-blaney/",
+            "urlToImage": "https://nascar.nbcsports.com/wp-content/uploads/sites/9/2022/06/GettyImages-1405342771-e1656308843735.jpg",
+            "publishedAt": "2022-06-27T05:53:00Z",
+            "content": "LEBANON, Tenn. Ryan Blaney said thank you. Martin Truex said sorry. Kyle Busch said Its going to be bad.\r\nA late caution sent some of the races best cars to pit road and out of a chance to win when o… [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "3 killed as Amtrak train hits car in Northern California - New York Post ",
+            "description": "Three people were killed Sunday afternoon when an Amtrak commuter train smashed into a car ín Northern California, authorities said.",
+            "url": "https://nypost.com/2022/06/27/3-killed-as-amtrak-train-hits-car-in-northern-california/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/newspress-collage-22816026-1656307505353.jpg?quality=75&strip=all&1656293163&w=1024",
+            "publishedAt": "2022-06-27T05:33:00Z",
+            "content": "BRENTWOOD, Calif. Three people were killed Sunday afternoon when an Amtrak commuter train smashed into a car ín Northern California, authorities said.\r\nThe crash occurred at around 1 p.m. in Brentwoo… [+814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Wajih AlBaroudi",
+            "title": "Avalanche vs. Lightning score Stanley Cup Final Game 6: Colorado wins 2-1 for team's third championship - CBS Sports",
+            "description": "A two-goal second period helped lift Colorado past Tampa Bay for its first championship since 2001",
+            "url": "https://www.cbssports.com/nhl/news/avalanche-vs-lightning-score-stanley-cup-final-game-6-colorado-wins-2-1-for-teams-third-championship/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/27/f688ccd9-5f5f-47c4-81cf-162aa366e5d5/thumbnail/1200x675/0aad3f2fb103a642f28c4548d8b09681/webp-net-resizeimage-6.jpg",
+            "publishedAt": "2022-06-27T05:20:05Z",
+            "content": "The Colorado Avalanche are Stanley Cup champions. The Avalanche went into a fired up Amalie Arena in Tampa, Fla., for Game 6 and left with a 2-1 win -- and a very large piece of hardware. \r\nColorado … [+3612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Brandon Choe",
+            "title": "BET Awards 2022: Kendrick Lamar, Megan Thee Stallion, Will Smith, Jazmine Sullivan Among Winners – Full Winners List - Deadline",
+            "description": "The 22nd annual BET Awards aired Sunday night, with Taraji P. Henson returning as host for “culture’s biggest night.” Presented live from the Microsoft Theater, the star-studded event featured a roster of fresh and familiar talent, including electric performa…",
+            "url": "https://deadline.com/2022/06/bet-awards-2022-full-winners-list-1235052490/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/06/CP_A9675-e1656305663584.jpg?w=1024",
+            "publishedAt": "2022-06-27T04:56:00Z",
+            "content": "The 22nd annual BET Awards aired Sunday night, with Taraji P. Henson returning as host for “culture’s biggest night.” Presented live from the Microsoft Theater, the star-studded event featured a rost… [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kathleen Magramo, CNN",
+            "title": "NASA launches first rocket from Australian space center - CNN",
+            "description": "NASA has successfully launched a rocket from Australia's remote Northern Territory, making history as the agency's first commercial spaceport launch outside the United States.",
+            "url": "https://www.cnn.com/2022/06/27/australia/nasa-launch-first-space-rocket-alpha-centauri-australia-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220626213120-nasa-australia-launch-0627-super-tease.jpg",
+            "publishedAt": "2022-06-27T04:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Diana Durán",
+            "title": "Colombia bullfight stands collapse, causing deaths and injuries - The Washington Post",
+            "description": "Video captures the moment when several tiers of the makeshift stands in El Espinal, Colombia, pitch forward into the bullring, trapping hundreds of spectators.",
+            "url": "https://www.washingtonpost.com/world/2022/06/26/stands-collapse-colombia-bullfight-with-deaths-major-injuries/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-26-2022/t_64956dea819944d79ac66b65849c28e3_name_ColombiaThumb.jpg&w=1440",
+            "publishedAt": "2022-06-27T04:38:18Z",
+            "content": "Placeholder while article actions load\r\nBOGOTÁ, Colombia Several tiers of crowded stands in an improvised bullring collapsedduring a bullfightin central Colombia on Sunday, leaving fourpeople dead an… [+3269 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Erica Pandey",
+            "title": "Poll: Majority of Americans disapprove of overturning Roe v. Wade - Axios",
+            "description": "Opinion is starkly divided along party lines.",
+            "url": "https://www.axios.com/2022/06/26/cbs-poll-americans-roe-v-wade-abortion-rights",
+            "urlToImage": "https://images.axios.com/YmHLmAn22xmV17Pp8rMrkvdPAyg=/0x0:4500x2531/1366x768/2022/06/26/1656250906854.jpg",
+            "publishedAt": "2022-06-27T03:44:56Z",
+            "content": "Fifty-nine percent of Americans disapprove of the Supreme Court's decision to overturn Roe v. Wade and take away the federal protections of abortion rights, according to a new CBS News/YouGov reactio… [+712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Abid Rahman",
+            "title": "Woody Allen to be Interviewed by Alec Baldwin - Hollywood Reporter",
+            "description": "Alec Baldwin is set to interview scandal-plagued filmmaker Woody Allen. Baldwin made the announcement on his Instagram, revealing that he will conduct an Instagram Live interview with Allen on Tuesday morning. In a caption to his post, the actor anticipated t…",
+            "url": "https://www.hollywoodreporter.com/news/general-news/alec-baldwin-set-to-interview-woody-allen-1235172201/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/baldwin-allen.jpg?w=1024",
+            "publishedAt": "2022-06-27T03:33:10Z",
+            "content": "Alec Baldwin is set to interview scandal-plagued filmmaker Woody Allen.\r\nBaldwin made the announcement on his Instagram, revealing that he will conduct an Instagram Live interview with Allen on Tuesd… [+1455 chars]"
+        }
+    ]
+}
